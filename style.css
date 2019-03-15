@@ -22,7 +22,7 @@ a {
 blockquote {
   text-align: center;
 }
-div.newsletter {
+div.newsletter, div.note {
   width: 600px;
   margin: 50px auto;
   background: #F7F7F7;
