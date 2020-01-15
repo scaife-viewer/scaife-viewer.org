@@ -1,8 +1,8 @@
 # Widget Inventory
 
-**bold** indicates existing; _italics_ indicates being worked on
-
 We are in the process of breaking widget code out from specific sites and putting them in [scaife-widgets](https://github.com/scaife-viewer/scaife-widgets).
+
+**bold** indicates existing; _italics_ indicates being worked on
 
   * Those that change which passage:
 
