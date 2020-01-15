@@ -9,6 +9,10 @@ As well as making incremental changes to scaife.perseus.org, we're also working 
 * [explorehomer](https://github.com/scaife-viewer/explorehomer) — new frontend for Explore Homer prototype
 * [explorehomer-atlas](https://github.com/scaife-viewer/explorehomer-atlas) — new backenbd for Explore Homer prototype
 
+## Slack Workspace
+
+You can join via <http://slack.scaife-viewer.org>.
+
 ## Key Documents
 
 * [Roadmap](/roadmap)
