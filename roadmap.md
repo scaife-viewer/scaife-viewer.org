@@ -20,6 +20,8 @@ See repository tickets
 
 ## Independent Library
 
+Motivation: 
+
   * Better cognitive and product management encapsulation
   * Work with ATLAS servers
   * Components to share with vocab.perseus.org and within reader
