@@ -11,7 +11,7 @@ As well as making incremental changes to scaife.perseus.org, we're also working 
 
 ## Slack Workspace
 
-You can join via <http://slack.scaife-viewer.org>.
+You can join via <https://slack.scaife-viewer.org>.
 
 ## Key Documents
 
