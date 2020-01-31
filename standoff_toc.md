@@ -53,4 +53,5 @@ Because we want this to work both with ATLAS and a Nautilus-based Scaife, we sho
 
 * an entire library-like functionality could be built with this but we don't have to start with this in mind
 * it would be useful if the TOCs could be used independently of the rest of Scaife for things like vocab.perseus.org
-* the TOCs could be a way to capture the results of a search or library filter
+* the TOCs could (eventually) be a way to capture the results of a search or library filter
+* the TOCs could (eventually) be a way to manage bookmarks too
