@@ -6,7 +6,7 @@ Motivation:
 
 * reading lists (e.g. here is a list of passages to read for this course)
 * topical guides (e.g. here is a list of passages on this topic)
-* groupings of works other than by CTS hierarcy (e.g. Apostolic Fathers, grouping of a work with a commentary)
+* groupings of works other than by CTS hierarchy (e.g. Apostolic Fathers, grouping of a work with a commentary)
 * alternative structures placed over words (e.g. Homer "cards" or New Testament "pericopes")
 
 In the canonical use case, these TOCs are hand-produced but they could be derived from other machine-actionable data either in the text markup itself (e.g. milestones) or external metadata. For the purposes of an MVP, I think we can assume they come as a static representation (see **Structure** below) and that we don't need to worry in the context of this epic how that representation was produced.
