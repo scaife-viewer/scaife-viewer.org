@@ -28,6 +28,13 @@ Q1: should a hierarchy be supported? The current mockups for Brill have a two-le
 
 Q2: what does it mean for the CTS URN to point to something higher than a passage? (In particular if the TOC is being accessed in a widget in the reader)
 
+Other potential expansions on the structure:
+
+* keywords
+* scope (see below)
+
+Both of these help with discovering of appropriate TOCs.
+
 ## Data Format
 
 We should establish a data format for importing and (potentially) exporting the TOCs.
