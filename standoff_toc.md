@@ -48,6 +48,7 @@ Because we want this to work both with ATLAS and a Nautilus-based Scaife, we sho
 * The TOCs selection could itself be a separate widget (and page).
 * TOCs themselves could be grouped as a TOC (which would provide a potential solution for TOC selection)
 * It would be useful (possibly as a latest step) to reverse index TOCs so the API can say which TOCs contain the passage currently being read.
+* Apart from the reverse index, it might be useful to be able to scope a list to a work or textgroup (e.g. say "this TOC is relevant to Homer, or the New Testament)
 
 ## Other Related Features / Epics / Considerations
 
