@@ -15,6 +15,7 @@ In the canonical use case, these TOCs are hand-produced but they could be derive
 
 At least for an MVP:
 
+* identifer for the TOC (CITE URN?)
 * title of TOC
 * ordered list of:
   * item title
