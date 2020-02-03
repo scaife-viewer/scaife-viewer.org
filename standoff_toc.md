@@ -25,7 +25,7 @@ In the canonical use case, the CTS URNs are passages but there are use cases whe
 
 For some cases, an optional description field for the overall TOC would be useful.
 
-Q1: should a hierarchy be supported? The current mockups for Brill have a two-level hierarchy but (how) do we generalise that?
+Q1: should a hierarchy be supported? The current mockups for Brill have a two-level hierarchy but (how) do we generalise that? If TOC items can be other TOCs, we can do it that way but that might involve too many clicks for some use cases.
 
 Q2: what does it mean for the CTS URN to point to something higher than a passage? (In particular if the TOC is being accessed in a widget in the reader)
 
