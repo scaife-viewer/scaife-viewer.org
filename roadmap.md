@@ -32,24 +32,24 @@ Motivation:
 
 ## Basic ATLAS-driven Reader
 
-### Phase 1
+### Phase 1 [DONE]
 
   * ATLAS server with hierarchical text parts of single text (individual Homer work, Beowulf, individual Apostolic Fathers work, Enchiridion, something in English?)
   * Ancestors, Children, Passage Reference, Text Size, Text Width
   * Pagination
 
-### Possible Phase 2 Directions
+### Possible Phase 2 Directions [IN PROGRESS]
 
-  * Multiple work support
+  * Multiple work support [DONE]
   * Text part zooming, text part extension (a la Read Beowulf)
-  * Add selection support with:
+  * Add selection support with: [IN PROGRESS]
       * API call
       * Use of Inline annotation (just displayed in widget for now)
 
-### Possible Phase 3 Directions
+### Possible Phase 3 Directions [IN PROGRESS]
 
-  * Inline display of annotations:
-      * Interlinear
+  * Inline display of annotations: [IN PROGRESS]
+      * Interlinear [IN PROGRESS]
       * Colour-coded
   * Translation alignment
   * Syntax Trees
@@ -60,7 +60,7 @@ Motivation:
 
 ## Specific Project Needs
 
-  * Custom TOCs
+  * Custom TOCs [DONE]
   * App crit
   * Fascimile Images
   * Repository pipeline improvements
