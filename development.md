@@ -2,7 +2,7 @@
 
 ## Key Repositories
 
-As well as making incremental changes to [scaife.perseus.org](https://scaife.perseus.org/), we're also working on a new architecture with a separate server (called ATLAS, for Aligned Text and Linguistic Annotation Server) and a frontend consisting of a Skeleton and various pluggable Widgets. We are proving this architecture out with a couple of prototypes including "Explore Homer" which brings together various levels of analysis of Homer, and "SV Mini".
+As well as making incremental changes to [scaife.perseus.org](https://scaife.perseus.org/), we're also working on a new architecture with a separate server (called ATLAS, for Aligned Text and Linguistic Annotation Server) and a frontend consisting of a Skeleton and various pluggable Widgets. We are proving this architecture out with a couple of prototypes including "Explore Homer" which brings together various levels of analysis of Homer, and "SV Mini" which shows a variety of texts with some analysis but not as deep as Explore Homer nor as broad as the entire Perseus Digital Library.
 
 ### Generic Front-end Code
 
@@ -22,6 +22,11 @@ As well as making incremental changes to [scaife.perseus.org](https://scaife.per
 ### Existing Site
 
 * [scaife-viewer](https://github.com/scaife-viewer/scaife-viewer) — main code currently running scaife.perseus.org
+
+## Demo Sites
+
+* [Explore Homer](https://explorehomer.scaife-viewer.org/)
+* [SV Mini](https://sv-mini.scaife-viewer.org/)
 
 ## Trello Boards
 
